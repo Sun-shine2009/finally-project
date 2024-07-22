@@ -1,0 +1,31 @@
+#navbar{
+    
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+    
+}
+#navbar li {
+display: inline; 
+
+}
+.button {
+display: inline-block;
+padding: .75rem 1.25rem;
+border-radius: 10rem;
+color: black;
+text-transform: uppercase;
+font-size: 1rem;
+letter-spacing: .15rem;
+transition: all .3s;
+position: relative;
+overflow: hidden;
+z-index: 1;
+background-color: white;
+}
+.container{
+    background-color: rgb(180, 247, 163);
+}
+
+
