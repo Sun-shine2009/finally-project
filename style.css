@@ -1,7 +1,7 @@
 @import 
 url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
 #navbar{
-    
+    background-color: rgb(180, 247, 163);
     margin: 0;
     padding: 0;
     list-style-type: none;
@@ -30,14 +30,38 @@ background-color: white;
     background-color: rgb(180, 247, 163);
 }
 .ava{
-    width: 400px;
-    height: 400px;
-    border-radius: 50%;
+    width: 25%;
+    height: 25%;
+    float: left;
+    margin-right: 10px;
+    
 }
 .main-text{
     font-family: "Jost", sans-serif;
     font-optical-sizing: auto;
     font-weight: medium;
     font-style: normal;
-    font-size: 400px;
+    font-size: 50px;
+    text-align: center;
+
+}
+.text{
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: medium;
+    font-style: normal;
+    font-size: 50px;
+    text-align: left;
+    display: flex;
+
+}
+.facts{
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: medium;
+    font-style: normal;
+    font-size: 25px;
+    text-align: left;
+    background-color: bisque;
+
 }
