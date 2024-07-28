@@ -42,7 +42,7 @@ background-color: white;
     font-weight: medium;
     font-style: normal;
     font-size: 50px;
-    text-align: center;
+    text-align: left;
 
 }
 .text{
@@ -63,5 +63,16 @@ background-color: white;
     font-size: 25px;
     text-align: left;
     background-color: bisque;
-
+    margin-top: 150px;
+}
+.footer{
+    background-color: rgb(112, 101, 101);
+    margin-top: 100px;
+    
+}
+.footer-text{
+    color: #ffffff;
+}
+.footer-sylki{
+    color: #ffffff;
 }
